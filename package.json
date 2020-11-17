@@ -1,0 +1,22 @@
+{
+  "name": "ts-proba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "parcel": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@types/cannon": "^0.1.5",
+    "babylonjs": "^4.2.0",
+    "cannon": "^0.6.2"
+  }
+}
